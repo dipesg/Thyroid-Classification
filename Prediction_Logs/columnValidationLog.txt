@@ -1,0 +1,5 @@
+2022-03-06/19:24:59		Column Length Validation Started!!
+2022-03-06/19:24:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112025.csv
+2022-03-06/19:24:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112042.csv
+2022-03-06/19:24:59		Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112109.csv
+2022-03-06/19:24:59		Column Length Validation Completed!!

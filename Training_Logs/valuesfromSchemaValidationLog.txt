@@ -1,0 +1,4 @@
+2022-03-06/19:18:29		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+2022-03-06/19:24:59		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+

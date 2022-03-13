@@ -1,0 +1,36 @@
+2022-03-06/19:24:59		Start of Validation on files for prediction!!
+2022-03-06/19:24:59		Raw Data Validation Complete!!
+2022-03-06/19:24:59		Starting Data Transforamtion!!
+2022-03-06/19:24:59		DataTransformation Completed!!!
+2022-03-06/19:24:59		Creating Prediction_Database and tables on the basis of given schema!!!
+2022-03-06/19:24:59		Table creation Completed!!
+2022-03-06/19:24:59		Insertion of Data into Table started!!!!
+2022-03-06/19:25:01		Insertion in Table completed!!!
+2022-03-06/19:25:01		Deleting Good Data Folder!!!
+2022-03-06/19:25:01		Good_Data folder deleted!!!
+2022-03-06/19:25:01		Moving bad files to Archive and deleting Bad_Data folder!!!
+2022-03-06/19:25:01		Bad files moved to archive!! Bad folder Deleted!!
+2022-03-06/19:25:01		Validation Operation completed!!
+2022-03-06/19:25:01		Extracting csv file from table
+2022-03-06/19:25:01		Start of Prediction
+2022-03-06/19:25:01		Entered the get_data method of the Data_Getter class
+2022-03-06/19:25:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-03-06/19:25:01		Entered the is_null_present method of the Preprocessor class
+2022-03-06/19:25:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-06/19:25:01		Entered the impute_missing_values method of the Preprocessor class
+2022-03-06/19:25:01		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-06/19:25:01		Entered the load_model method of the File_Operation class
+2022-03-06/19:25:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-03-06/19:25:01		Entered the find_correct_model_file method of the File_Operation class
+2022-03-06/19:25:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-06/19:25:01		Entered the load_model method of the File_Operation class
+2022-03-06/19:25:01		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2022-03-06/19:25:01		Entered the find_correct_model_file method of the File_Operation class
+2022-03-06/19:25:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-06/19:25:01		Entered the load_model method of the File_Operation class
+2022-03-06/19:25:01		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2022-03-06/19:25:01		Entered the find_correct_model_file method of the File_Operation class
+2022-03-06/19:25:01		Exited the find_correct_model_file method of the Model_Finder class.
+2022-03-06/19:25:01		Entered the load_model method of the File_Operation class
+2022-03-06/19:25:01		Model File KNN1 loaded. Exited the load_model method of the Model_Finder class
+2022-03-06/19:25:02		End of Prediction
