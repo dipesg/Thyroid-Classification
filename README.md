@@ -19,7 +19,7 @@ Link: [https://thyroiddetection1234.herokuapp.com/](https://thyroiddetection1234
 
 
 ## Overview
-This is a Insurance Fraud Classification Flask app trained on **KMeans, KNN and Xgboost**. Here in this app data is given by the user in the form of **csv format.** 
+This is a Thyroid-Classification Flask app trained on **RandomForest and KNN**. Here in this app data is given by the user in the form of **csv format.** 
 - Code is organized in a **Modular Format.**
 - First user input data is stored in a **Sqlite database** where given csv file is separeted as a good file or a bad file according to specified **Schema file** thus separeted good file is given for a model training. 
 - After preprocessing the data we select sample by the means of **Clustering** technique and perform a  hyperparameter tuning then we train a model according to that cluster and select a best model according to their AUC score.
